@@ -1,7 +1,5 @@
 # ClashPVPUpdates
 This is an update logs for all ClashPVP updates!
-
-===================================================================================================================================================================================
   
 # // Version 1.2 //
 + New lighting (Snowy Fog) // Transitioning to a snowy map around December //
